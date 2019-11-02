@@ -8,7 +8,9 @@
   },
   
   "about": {
-    { "alias": "Image", "data": { "title": "Image panel" } },
-    { "alias": "Article", "data": { "title": "Article panel 2" } }
+    "panels": [
+      { "alias": "Image", "data": { "title": "Image panel" } },
+      { "alias": "Article", "data": { "title": "Article panel 2" } }
+    ]
   }
 }
