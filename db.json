@@ -12,5 +12,10 @@
       { "alias": "Image", "data": { "title": "Image panel" } },
       { "alias": "Article", "data": { "title": "Article panel 2" } }
     ]
-  }
+  },
+  
+  "routes": [
+    { "alias": "Home", "url": "/home" },
+    { "alias": "About", "url": "/about" }
+  ]
 }
