@@ -15,7 +15,7 @@
   },
   
   "routes": [
-    { "alias": "Home", "url": "/" },
+    { "alias": "Home", "url": "/home" },
     { "alias": "About", "url": "/about" }
   ]
 }
