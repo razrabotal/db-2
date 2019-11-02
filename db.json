@@ -1,17 +1,19 @@
 {
-  "home": {
-    "panels": [
-      { "alias": "Article", "data": { "title": "Article panel" } },
-      { "alias": "Article", "data": { "title": "Article panel 2" } },
-      { "alias": "Image", "data": { "title": "Image panel" } }
-    ]
-  },
-  
-  "about": {
-    "panels": [
-      { "alias": "Image", "data": { "title": "Image panel" } },
-      { "alias": "Article", "data": { "title": "Article panel 2" } }
-    ]
+  "pages": {
+    "home": {
+      "panels": [
+        { "alias": "Article", "data": { "title": "Article panel" } },
+        { "alias": "Article", "data": { "title": "Article panel 2" } },
+        { "alias": "Image", "data": { "title": "Image panel" } }
+      ]
+    },
+
+    "about": {
+      "panels": [
+        { "alias": "Image", "data": { "title": "Image panel" } },
+        { "alias": "Article", "data": { "title": "Article panel 2" } }
+      ]
+    },
   },
   
   "routes": [
