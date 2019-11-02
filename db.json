@@ -28,7 +28,7 @@
     "cookieDescription": "<div><p>Text text</p></div>",
     "cookieTitle": "Cookie Title",
     "pageNotFoundPageUrl": "/404/",
-    "pageTitleSeparator": "|"
+    "pageTitleSeparator": "|",
     "siteFooter": {
       "footerLink": [
         { "name": "Link1" },
