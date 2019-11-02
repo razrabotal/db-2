@@ -17,5 +17,25 @@
   "routes": [
     { "alias": "Home", "url": "/home" },
     { "alias": "About", "url": "/about" }
-  ]
+  ],
+  
+  "navigation": [
+    { "isActive": "false", "title": "Home", "url": "/home" },
+    { "isActive": "false", "title": "About", "url": "/about" }
+  ],
+  
+  "siteSettings": {
+    "cookieDescription": "<div><p>Text text</p></div>",
+    "cookieTitle": "Cookie Title",
+    "pageNotFoundPageUrl": "/404/",
+    "pageTitleSeparator": "|"
+    "siteFooter": {
+      "footerLink": [
+        { "name": "Link1" },
+        { "name": "Link2" },
+        { "name": "Link3" }
+      ]
+    },
+    "siteTitle": "siteTitle"
+  }
 }
