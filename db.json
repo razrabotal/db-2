@@ -37,5 +37,10 @@
       ]
     },
     "siteTitle": "siteTitle"
+  },
+  
+  "translations": {
+    "global.title": "Hello, everybody",
+    "global.footer.title": "2019 Copyright"
   }
 }
