@@ -6,12 +6,10 @@
         "alias": "Article", 
         "data": { 
           "title": "Article panel", 
-          "theme": { 
-            "background": "red" 
-          } 
+          "theme": "red" 
         } 
       },
-      { "alias": "Article", "data": { "title": "Article panel 2" } },
+      { "alias": "Article", "data": { "title": "Article panel 2", "theme": "default" } },
       { "alias": "Image", "data": { "title": "Image panel" } }
     ]
   },
