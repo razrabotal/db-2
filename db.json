@@ -2,7 +2,7 @@
   "home": {
     "title": "Home page",
     "panels": [
-      { "alias": "Article", "data": { "title": "Article panel" }, "theme": { "background": "red" } },
+      { "alias": "Article", "data": { "title": "Article panel", "theme": { "background": "red" } } },
       { "alias": "Article", "data": { "title": "Article panel 2" } },
       { "alias": "Image", "data": { "title": "Image panel" } }
     ]
