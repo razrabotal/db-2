@@ -1,5 +1,6 @@
 {
   "home": {
+    "title": "Home page",
     "panels": [
       { "alias": "Article", "data": { "title": "Article panel" } },
       { "alias": "Article", "data": { "title": "Article panel 2" } },
@@ -8,6 +9,7 @@
   },
 
   "about": {
+    "title": "About page",
     "panels": [
       { "alias": "Image", "data": { "title": "Image panel" } },
       { "alias": "Article", "data": { "title": "Article panel 2" } }
