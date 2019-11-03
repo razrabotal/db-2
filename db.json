@@ -39,7 +39,15 @@
     "title": "About page",
     "panels": [
       { "alias": "Image", "data": { "title": "Image panel" } },
-      { "alias": "Article", "data": { "title": "Article panel 2" } }
+      { "alias": "Article", "data": { "title": "Article panel 2" } },
+      { "alias": "Icons", "data": { 
+        "title": "Icon panel",
+        "items": [
+          { "title": "Item1", "description": "<p>Test1</p>" },
+          { "title": "Item2", "description": "<p>Test1222</p>" },
+          { "title": "Item3", "description": "<p>Test13333</p>" }
+        ]
+      } }
     ]
   },
   
