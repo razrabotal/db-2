@@ -1,0 +1,422 @@
+[
+  {
+    "id": "0",
+    "style": "transform: translate(222.4 427.3)",
+    "text": "Сирець",
+    "stop": "<path d='M210 427.2v-20.6h-42.1v20.6H210z'/>",
+    "path": "<path fill='none' stroke-miterlimit='10' stroke-width='28' d='M181.7 407.9v140.4'/>",
+    "color": "green"
+  },
+  {
+    "id": "1",
+    "style": "transform: translate(222.4 563.9)",
+    "text": "Дорогижичі",
+    "stop": "<path d='M210 562.2v-20.6h-42.1v20.6H210z'/>",
+    "path": "<path fill='none' stroke-miterlimit='10' stroke-width='28' d='M181.7 548.3V594a70 70 0 0020.5 49.5l68.2 68.2'/>",
+    "color": "green"
+  },
+  {
+    "id": "2",
+    "style": "transform: translate(18.5 765.2)",
+    "text": "Лук’янівська",
+    "stop": "<path d='M246.8 728.2l14.5 14.5 29.8-29.7-7.3-7.3-7.3-7.3-29.7 29.8z'/>",
+    "path": "<path fill='none' stroke-miterlimit='10' stroke-width='28' d='M270.4 711.8L389.6 831'/>",
+    "color": "green"
+  },
+  {
+    "id": "3",
+    "style": "transform: translate(109.8 861.4)",
+    "text": "Золоті ворота",
+    "stop": "<use width='15.9' height='13.3' transform='matrix(0 4.45 4.45 0 373.4 820.4)' xlink:href='#c'/>",
+    "path": "",
+    "color": "green"
+  },
+  {
+    "id": "4",
+    "style": "transform: translate(423 1048.4)",
+    "text": "Палац <tspan x='-9.3' y='41'>спорту</tspan>",
+    "stop": "<path fill='#41a747' d='M549.3 1003.3a14 14 0 11-.1-27.9 13.5 13.5 0 018 2.6l3.8 2.7a51 51 0 0013.8 7v3.2a51 51 0 00-16.8 9.1l-.1.1a13.4 13.4 0 01-8.6 3.2m0 15.6a29 29 0 0018.6-6.8 35.4 35.4 0 0122.5-8.1v-29.5a35.4 35.4 0 01-20.5-6.5l-3.8-2.7a29 29 0 00-16.9-5.4 29.5 29.5 0 00-29.6 29.5 29.5 29.5 0 0029.6 29.5z'/>",
+    "path": "",
+    "color": "green"
+  },
+  {
+    "id": "5",
+    "style": "",
+    "text": "Кловська",
+    "stop": "<path d='M711.2 1113.1l-14.6-14.6-29.7 29.8 7.3 7.3 7.2 7.3 29.8-29.8z'/>",
+    "path": "",
+    "color": "green"
+  },
+  {
+    "id": "6",
+    "style": "",
+    "text": "Печерська",
+    "stop": "<path d='M780.4 1182.3l-14.6-14.6-29.7 29.8 7.3 7.3 7.2 7.2 29.8-29.7z'/>",
+    "path": "",
+    "color": "green"
+  },
+  {
+    "id": "7",
+    "style": "",
+    "text": "Дружби народів",
+    "stop": "<path d='M852.4 1254.3l-14.5-14.5-29.8 29.7 7.3 7.3 7.3 7.3 29.7-29.8z'/>",
+    "path": "",
+    "color": "green"
+  },
+  {
+    "id": "8",
+    "style": "",
+    "text": "Видубичі",
+    "stop": "<path d='M924.3 1326.2l-14.6-14.6-29.7 29.8 7.3 7.3 7.2 7.3 29.8-29.8z'/>",
+    "path": "",
+    "color": "green"
+  },
+  {
+    "id": "9",
+    "style": "",
+    "text": "Славутич",
+    "stop": "<path d='M995.6 1397.5l-14.5-14.5-29.8 29.7 7.3 7.3 7.3 7.3 29.7-29.8z'/>",
+    "path": "",
+    "color": "green"
+  },
+  {
+    "id": "10",
+    "style": "",
+    "text": "Осокорки",
+    "stop": "<path d='M1026.5 1527.7v-20.6h-42.1v20.6h42.1z'/>",
+    "path": "",
+    "color": "green"
+  },
+  {
+    "id": "11",
+    "style": "",
+    "text": "Позняки",
+    "stop": "<path d='M1026.5 1610.2v-20.6h-42.1v20.6h42.1z'/>",
+    "path": "",
+    "color": "green"
+  },
+  {
+    "id": "12",
+    "style": "",
+    "text": "Харківська",
+    "stop": "<path d='M1026.5 1687.1v-20.6h-42.1v20.6h42.1z'/>",
+    "path": "",
+    "color": "green"
+  },
+  {
+    "id": "13",
+    "style": "",
+    "text": "Вирлиця",
+    "stop": "<path d='M1026.5 1764v-20.7h-42.1V1764h42.1z'/>",
+    "path": "",
+    "color": "green"
+  },
+  {
+    "id": "14",
+    "style": "",
+    "text": "Бориспільська",
+    "stop": "<path d='M1026.5 1840.8v-20.6h-42.1v20.6h42.1z'/>",
+    "path": "",
+    "color": "green"
+  },
+  {
+    "id": "15",
+    "style": "",
+    "text": "Червоний <tspan x='0' y='43'>хутір</tspan>",
+    "stop": "<path d='M1026.5 1917.7v-20.6h-42.1v20.6h42.1z'/>",
+    "path": "",
+    "color": "green"
+  },
+
+
+  {
+    "id": "16",
+    "style": "",
+    "text": "Героїв Дніпра",
+    "stop": "",
+    "path": "",
+    "color": "blue"
+  },
+  {
+    "id": "17",
+    "style": "",
+    "text": "Мінська",
+    "stop": "",
+    "path": "",
+    "color": "blue"
+  },
+  {
+    "id": "18",
+    "style": "",
+    "text": "Оболонь",
+    "stop": "",
+    "path": "",
+    "color": "blue"
+  },
+  {
+    "id": "19",
+    "style": "",
+    "text": "Почайна",
+    "stop": "",
+    "path": "",
+    "color": "blue"
+  },
+  {
+    "id": "20",
+    "style": "",
+    "text": "Тараса<tspan x='0' y='41'>Шевченка</tspan>",
+    "stop": "",
+    "path": "",
+    "color": "blue"
+  },
+  {
+    "id": "21",
+    "style": "",
+    "text": "Контрактова<tspan x='113.3' y='41'>площа</tspan>",
+    "stop": "",
+    "path": "",
+    "color": "blue"
+  },
+  {
+    "id": "22",
+    "style": "",
+    "text": "Поштова <tspan x='38.7' y='41'>Площа</tspan>",
+    "stop": "",
+    "path": "",
+    "color": "blue"
+  },
+  {
+    "id": "23",
+    "style": "",
+    "text": "Майдан<tspan x='0' y='41'>Незалежності</tspan>",
+    "stop": "",
+    "path": "",
+    "color": "blue"
+  },
+  {
+    "id": "24",
+    "style": "",
+    "text": "Площа <tspan x='0' y='43'>Льва Толстого</tspan>",
+    "stop": "",
+    "path": "",
+    "color": "blue"
+  },
+  {
+    "id": "25",
+    "style": "",
+    "text": "Олімпійська",
+    "stop": "",
+    "path": "",
+    "color": "blue"
+  },
+  {
+    "id": "26",
+    "style": "",
+    "text": "Палац <tspan x='-15' y='42'>«Україна»</tspan>",
+    "stop": "",
+    "path": "",
+    "color": "blue"
+  },
+  {
+    "id": "27",
+    "style": "",
+    "text": "Либідська",
+    "stop": "",
+    "path": "",
+    "color": "blue"
+  },
+  {
+    "id": "28",
+    "style": "",
+    "text": "Деміївська",
+    "stop": "",
+    "path": "",
+    "color": "blue"
+  },
+  {
+    "id": "29",
+    "style": "",
+    "text": "Голосіївська",
+    "stop": "",
+    "path": "",
+    "color": "blue"
+  },
+  {
+    "id": "30",
+    "style": "",
+    "text": "Васильківська",
+    "stop": "",
+    "path": "",
+    "color": "blue"
+  },
+  {
+    "id": "31",
+    "style": "",
+    "text": "Виставковий<tspan x='0' y='39'>центр</tspan>",
+    "stop": "",
+    "path": "",
+    "color": "blue"
+  },
+  {
+    "id": "32",
+    "style": "",
+    "text": "Іподром",
+    "stop": "",
+    "path": "",
+    "color": "blue"
+  },
+  {
+    "id": "33",
+    "style": "",
+    "text": "Теремки",
+    "stop": "",
+    "path": "",
+    "color": "blue"
+  },
+
+
+  {
+    "id": "34",
+    "style": "",
+    "text": "Академмістечко",
+    "stop": "",
+    "path": "",
+    "color": "red"
+  },
+  {
+    "id": "35",
+    "style": "",
+    "text": "Житомирська",
+    "stop": "",
+    "path": "",
+    "color": "red"
+  },
+  {
+    "id": "36",
+    "style": "",
+    "text": "Святошин",
+    "stop": "",
+    "path": "",
+    "color": "red"
+  },
+  {
+    "id": "37",
+    "style": "",
+    "text": "Нивки",
+    "stop": "",
+    "path": "",
+    "color": "red"
+  },
+  {
+    "id": "38",
+    "style": "",
+    "text": "Берестейська",
+    "stop": "",
+    "path": "",
+    "color": "red"
+  },
+  {
+    "id": "39",
+    "style": "",
+    "text": "Шулявська",
+    "stop": "",
+    "path": "",
+    "color": "red"
+  },
+  {
+    "id": "40",
+    "style": "",
+    "text": "Політехнічний<tspan x='0' y='37'>інститут</tspan>",
+    "stop": "",
+    "path": "",
+    "color": "red"
+  },
+  {
+    "id": "41",
+    "style": "",
+    "text": "Вокзальна",
+    "stop": "",
+    "path": "",
+    "color": "red"
+  },
+  {
+    "id": "42",
+    "style": "",
+    "text": "Університет",
+    "stop": "",
+    "path": "",
+    "color": "red"
+  },
+  {
+    "id": "43",
+    "style": "",
+    "text": "Театральна",
+    "stop": "",
+    "path": "",
+    "color": "red"
+  },
+  {
+    "id": "44",
+    "style": "",
+    "text": "Хрещатик",
+    "stop": "",
+    "path": "",
+    "color": "red"
+  },
+  {
+    "id": "45",
+    "style": "",
+    "text": "Арсенальна",
+    "stop": "",
+    "path": "",
+    "color": "red"
+  },
+  {
+    "id": "46",
+    "style": "",
+    "text": "Дніпро",
+    "stop": "",
+    "path": "",
+    "color": "red"
+  },
+  {
+    "id": "47",
+    "style": "",
+    "text": "Гідропарк",
+    "stop": "",
+    "path": "",
+    "color": "red"
+  },
+  {
+    "id": "48",
+    "style": "",
+    "text": "Лівобережна",
+    "stop": "",
+    "path": "",
+    "color": "red"
+  },
+  {
+    "id": "49",
+    "style": "",
+    "text": "Дарниця",
+    "stop": "",
+    "path": "",
+    "color": "red"
+  },
+  {
+    "id": "50",
+    "style": "",
+    "text": "Чернігівська",
+    "stop": "",
+    "path": "",
+    "color": "red"
+  },
+  {
+    "id": "51",
+    "style": "",
+    "text": "Лісова",
+    "stop": "",
+    "path": "",
+    "color": "red"
+  }
+]
